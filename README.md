@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Parth Patel</h1>
 
-<!--
-**parth-patel-ai/parth-patel-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+C/C++ Developer | Python Developer | IoT Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building software projects and exploring AI-assisted development.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 💻 Developer interested in C, C++ and Python
+- 🤖 Exploring AI-assisted development
+- 📡 Interested in IoT and Embedded Systems
+- 🚀 Building practical technology projects
+
+---
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux" />
+
+---
+
+## 🚀 Featured Projects
+
+🎥 **AI Camera Studio**  
+Camera management and processing platform.
+
+🏢 **Enterprise ERP System**  
+Business management software solution.
+
+📡 **ESP No-Code Tool**  
+IoT automation platform for ESP devices.
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=parth-patel-ai&show_icons=true&theme=tokyonight" />
