@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Patel</h1>
 
 <h3 align="center">
-C/C++ Developer | Python Developer | IoT Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=C%2FC%2B%2B+Developer;Python+Developer;IoT+Enthusiast;Software+Builder;AI+Assisted+Developer" />
 </h3>
 
 <p align="center">
