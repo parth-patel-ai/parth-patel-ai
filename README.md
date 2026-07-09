@@ -40,4 +40,10 @@ IoT automation platform for ESP devices.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=parth-patel-ai&show_icons=true&theme=tokyonight" />
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=parth-patel-ai&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-patel-ai&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
