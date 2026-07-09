@@ -46,3 +46,10 @@ IoT automation platform for ESP devices.
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parth-patel-ai&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/parth-patel-ai/parth-patel-ai/output/github-contribution-grid-snake.svg" />
+</p>
