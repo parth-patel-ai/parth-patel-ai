@@ -50,6 +50,4 @@ IoT automation platform for ESP devices.
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/parth-patel-ai/parth-patel-ai/output/github-contribution-grid-snake.svg" />
-</p>
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
