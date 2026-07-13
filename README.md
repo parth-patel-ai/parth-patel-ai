@@ -1,323 +1,264 @@
-<!-- ================================================================= -->
-<!--  PARTH PATEL · GitHub Profile                                      -->
-<!--  palette → indigo #0F0E2A · deep-teal #0C2D48 · cyan #22D3EE      -->
-<!--            amber #F59E0B · light-text #E2E8F0                      -->
-<!-- ================================================================= -->
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  HERO  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--  PARTH PATEL · parth-patel605                            -->
+<!--  A GitHub profile that tells a story, not just a list.   -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
+
+<!-- ━━━ HERO BANNER ━━━ -->
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0E2A,50:0C2D48,100:1A1A40&text=Parth%20Patel&fontColor=22D3EE&fontSize=72&fontAlignY=38&desc=IoT%20Innovator%20%E2%80%A2%20AI-Powered%20Builder%20%E2%80%A2%20Embedded%20Systems%20Tinkerer&descSize=17&descAlignY=60&descColor=E2E8F0&animation=fadeIn"
-  alt="Parth Patel — IoT & AI Builder"
+  src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:1a1b27,50:24283b,100:1a1b27&text=PARTH%20PATEL&fontColor=BB86FC&fontSize=60&fontAlignY=48&stroke=BB86FC&strokeWidth=1&animation=fadeIn"
+  alt="Parth Patel"
 />
 
 <br/>
 
+<!-- animated subtitle -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&height=48&lines=Hey%2C+I'm+Parth+%E2%80%94+I+build+things+that+talk+to+hardware.;WireGen+AI+%E2%9A%A1+%E2%80%94+No-code+meets+embedded+systems.;AI+%2B+ESP32+%2B+a+passion+for+making+IoT+simple.;From+idea+to+flashed+firmware+in+seconds."
-  alt="intro"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=00E676&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%9A%A1+IoT+Builder+%7C+AI+Engineer+%7C+Desktop+App+Maker;%F0%9F%94%A5+I+turn+plain+English+into+flashed+firmware"
+  alt="tagline"
 />
 
 <br/>
-<br/>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓  BIG CONTACT BUTTONS  ▓▓▓▓▓▓▓▓▓▓ -->
+<!-- quick-identity pills -->
+<img src="https://img.shields.io/badge/📍_India-1a1b27?style=flat&labelColor=1a1b27" height="24"/>
+<img src="https://img.shields.io/badge/🔬_IoT_×_AI-1a1b27?style=flat&labelColor=1a1b27" height="24"/>
+<img src="https://img.shields.io/badge/🚀_Building_WireGen_AI-1a1b27?style=flat&labelColor=1a1b27" height="24"/>
+<img src="https://img.shields.io/badge/🤝_Open_to_Collaborate-1a1b27?style=flat&labelColor=1a1b27" height="24"/>
 
-<a href="https://github.com/parth-patel605/WireGen-ESP">
-  <img height="42" src="https://img.shields.io/badge/%E2%9A%A1%20%20WIREGEN%20AI-0C2D48?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0F0E2A" alt="WireGen AI" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/parth-patel605">
-  <img height="42" src="https://img.shields.io/badge/%20GITHUB-1A1A40?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0F0E2A" alt="GitHub" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:parth@example.com">
-  <img height="42" src="https://img.shields.io/badge/%20EMAIL%20ME-0C2D48?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0F0E2A" alt="Email" />
-</a>
+<br/><br/>
 
-<br/>
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=parth-patel605&label=Profile+Visitors&color=22D3EE&style=flat-square&labelColor=0F0E2A" alt="visitors" />
+<!-- counters -->
+<img src="https://komarev.com/ghpvc/?username=parth-patel605&label=visitors&color=BB86FC&style=flat-square&labelColor=1a1b27" alt="visitors"/>
 &nbsp;
 <a href="https://github.com/parth-patel605?tab=followers">
-  <img src="https://img.shields.io/github/followers/parth-patel605?label=Followers&style=flat-square&color=F59E0B&labelColor=0F0E2A&logo=github&logoColor=22D3EE" alt="followers" />
+  <img src="https://img.shields.io/github/followers/parth-patel605?label=followers&style=flat-square&color=00E676&labelColor=1a1b27&logo=github&logoColor=white" alt="followers"/>
+</a>
+&nbsp;
+<a href="https://github.com/parth-patel605?tab=repositories">
+  <img src="https://img.shields.io/badge/repos-2-BB86FC?style=flat-square&labelColor=1a1b27&logo=github&logoColor=white" alt="repos"/>
 </a>
 
 </div>
 
-<br/>
+---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION: ABOUT  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                     ABOUT ME                     -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:0F0E2A,50:0C2D48,100:1A1A40&text=%F0%9F%91%A4%20%20%20WHO%20IS%20PARTH&fontColor=22D3EE&fontSize=21&fontAlignY=66&section=header" alt="Who is Parth" />
+### `> whoami`
 
-<br/>
+```js
+const parth = {
+    name      : "Parth Patel",
+    location  : "India 🇮🇳",
+    focus     : ["IoT", "Generative AI", "Desktop Apps", "Embedded Systems"],
+    building  : "WireGen AI — No-code firmware generator for ESP boards",
+    languages : ["TypeScript", "JavaScript", "Python", "C++"],
+    motto     : "Describe it. Generate it. Flash it.",
+};
+```
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td width="3%"></td>
-<td width="94%" valign="top" align="center">
+> I don't just write software — I build **bridges between AI and real hardware**.
+> My work lives at the intersection of **generative AI**, **embedded systems**, and **beautiful desktop apps**.
+> I believe IoT development should be as easy as typing a sentence.
 
-I'm **Parth Patel** — a developer who lives at the intersection of **software** and **hardware**.
-I don't just write code; I build tools that **bridge the gap** between AI and embedded systems.
-My flagship project, **WireGen AI**, lets anyone generate production-ready ESP firmware from plain English — no coding required.
-When I'm not tinkering with microcontrollers, I'm exploring **generative AI**, **desktop app development**, and the art of shipping polished products.
+---
 
-</td>
-<td width="3%"></td>
-</tr>
-</table>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                   TECH STACK                     -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/%F0%9F%93%8D%20India-0F0E2A?style=flat-square&labelColor=0C2D48&color=0F0E2A" alt="location" height="30" />
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%92%BB%20IoT%20%2B%20AI%20Builder-0F0E2A?style=flat-square&labelColor=0C2D48&color=0F0E2A" alt="focus" height="30" />
-&nbsp;
-<img src="https://img.shields.io/badge/%E2%9A%A1%20Shipping%20WireGen%20AI-0F0E2A?style=flat-square&labelColor=0C2D48&color=0F0E2A" alt="status" height="30" />
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Open%20to%20collab-0F0E2A?style=flat-square&labelColor=0C2D48&color=0F0E2A" alt="open" height="30" />
-
-</div>
-
-<br/>
+### `> tech --list`
 
 <div align="center">
 
-> *"idea → code → flash → repeat"*
+| | Technologies |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css&theme=dark" height="36"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" height="36"/> |
+| **Desktop** | <img src="https://skillicons.dev/icons?i=electron&theme=dark" height="36"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" height="36"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="36"/> |
+| **AI & IoT** | ![Gemini](https://img.shields.io/badge/Gemini-1a1b27?style=flat-square&logo=googlegemini&logoColor=BB86FC) ![ESP32](https://img.shields.io/badge/ESP32-1a1b27?style=flat-square&logo=espressif&logoColor=00E676) ![Arduino](https://img.shields.io/badge/Arduino-1a1b27?style=flat-square&logo=arduino&logoColor=00E676) ![MQTT](https://img.shields.io/badge/MQTT-1a1b27?style=flat-square&logo=mqtt&logoColor=BB86FC) |
 
 </div>
 
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                 FEATURED PROJECT                  -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+### `> cat projects/wiregen-ai.md`
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<h3 align="center">⚡ WireGen AI <sup><em>flagship</em></sup></h3>
+
+<p align="center">
+  <strong>The AI-powered no-code IoT firmware generator.</strong><br/>
+  <sub>Describe your hardware project in plain English → get production-ready C++ code for ESP32/ESP8266 instantly.</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+</p>
+
 <br/>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION: ARSENAL  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:1A1A40,50:0C2D48,100:0F0E2A&text=%E2%9A%A1%20%20%20ARSENAL&fontColor=22D3EE&fontSize=21&fontAlignY=66&section=header" alt="Arsenal" />
+```
+  ┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+  │  📝 DESCRIBE │ ──▶ │  🤖 GENERATE │ ──▶ │  👁️ REVIEW   │ ──▶ │  ⚡ FLASH    │
+  │             │     │             │     │             │     │             │
+  │ "Read temp  │     │ Gemini AI   │     │ Syntax-     │     │ Export &    │
+  │  from DHT11 │     │ writes C++  │     │ highlighted │     │ flash to   │
+  │  on Pin 4"  │     │ for your    │     │ code editor │     │ your ESP   │
+  │             │     │ ESP board   │     │ with review │     │ device!    │
+  └─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘
+```
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+<strong>✨ Key Features</strong>
 
-<tr>
-<td width="24%" align="right" valign="middle">&nbsp;<b>⟶&nbsp; Languages</b></td>
-<td width="3%"></td>
-<td width="73%" align="left" valign="middle">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css&theme=dark" alt="languages" />
-</td>
-</tr>
-<tr><td colspan="3" height="14"></td></tr>
-
-<tr>
-<td width="24%" align="right" valign="middle">&nbsp;<b>⟶&nbsp; Frontend</b></td>
-<td width="3%"></td>
-<td width="73%" align="left" valign="middle">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,electron&theme=dark" alt="frontend" />
-</td>
-</tr>
-<tr><td colspan="3" height="14"></td></tr>
-
-<tr>
-<td width="24%" align="right" valign="middle">&nbsp;<b>⟶&nbsp; Backend &amp; Tools</b></td>
-<td width="3%"></td>
-<td width="73%" align="left" valign="middle">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git&theme=dark" alt="backend" />
-</td>
-</tr>
-<tr><td colspan="3" height="14"></td></tr>
-
-<tr>
-<td width="24%" align="right" valign="middle">&nbsp;<b>⟶&nbsp; AI &amp; IoT</b></td>
-<td width="3%"></td>
-<td width="73%" align="left" valign="middle">
-  <img height="34" src="https://img.shields.io/badge/Google_Gemini-0F0E2A?style=for-the-badge&logo=googlegemini&logoColor=22D3EE" alt="gemini" />
-  <img height="34" src="https://img.shields.io/badge/Generative_AI-0C2D48?style=for-the-badge&logo=openai&logoColor=F59E0B" alt="genai" />
-  <img height="34" src="https://img.shields.io/badge/ESP32_/_ESP8266-0F0E2A?style=for-the-badge&logo=espressif&logoColor=22D3EE" alt="esp" />
-  <img height="34" src="https://img.shields.io/badge/Arduino-0C2D48?style=for-the-badge&logo=arduino&logoColor=F59E0B" alt="arduino" />
-  <img height="34" src="https://img.shields.io/badge/NSIS_Installer-0F0E2A?style=for-the-badge&logo=windows&logoColor=22D3EE" alt="nsis" />
 </td>
 </tr>
 </table>
 
-<br/>
+</div>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION: PROJECTS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+- 🧠 **Intelligent Code Synthesis** — Gemini AI writes optimized C++ with correct pin mapping & library imports
+- 📡 **IoT Protocol Aware** — Understands MQTT, HTTP, Wi-Fi connectivity, and sensor relationships
+- 🖥️ **Native Desktop App** — Built on Electron + Vite for blazing-fast performance
+- 🎨 **Dark Mode UI** — Sleek React 19 + Tailwind v4 interface for late-night building sessions
+- 📦 **Windows Installer** — Ships as a polished `.exe` via NSIS packaging
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:0F0E2A,50:0C2D48,100:1A1A40&text=%F0%9F%94%A7%20%20%20FLAGSHIP%20PROJECTS&fontColor=22D3EE&fontSize=21&fontAlignY=66&section=header" alt="Flagship Projects" />
-
-<br/>
-
-<!-- ── PANEL 01 ── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:0C2D48,100:1A1A40&text=01%20%E2%80%94%20WireGen%20AI%20%E2%80%94%20FLAGSHIP&fontColor=F59E0B&fontSize=17&fontAlignY=64&section=header" alt="WireGen AI" />
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td width="3%"></td>
-<td width="64%" valign="top">
-
-<br/>
-
-**AI-powered no-code IoT builder.**
-Describe your hardware project in plain English — WireGen AI generates **production-ready C++ code** for ESP32/ESP8266, complete with pin mapping, library imports, and IoT protocols. Powered by **Google Gemini**, built with **Electron + React + Vite**.
-
-<br/>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0F0E2A?style=flat-square&logo=typescript&logoColor=22D3EE)
-![React](https://img.shields.io/badge/React_19-0C2D48?style=flat-square&logo=react&logoColor=F59E0B)
-![Electron](https://img.shields.io/badge/Electron-0F0E2A?style=flat-square&logo=electron&logoColor=22D3EE)
-![Vite](https://img.shields.io/badge/Vite-0C2D48?style=flat-square&logo=vite&logoColor=F59E0B)
-![Tailwind](https://img.shields.io/badge/Tailwind_v4-0F0E2A?style=flat-square&logo=tailwindcss&logoColor=22D3EE)
-![Gemini](https://img.shields.io/badge/Gemini_AI-0C2D48?style=flat-square&logo=googlegemini&logoColor=F59E0B)
-
-</td>
-<td width="3%"></td>
-<td width="27%" valign="middle" align="center">
-
+<div align="center">
 <br/>
 
 <a href="https://github.com/parth-patel605/WireGen-ESP">
-  <img height="40" src="https://img.shields.io/badge/%E2%9A%A1%20%20VIEW%20REPO-1A1A40?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0F0E2A" alt="view repo" />
+  <img src="https://img.shields.io/badge/⚡_View_Repository-BB86FC?style=for-the-badge&logo=github&logoColor=1a1b27" alt="View Repo" />
 </a>
+&nbsp;
+<img src="https://img.shields.io/badge/🖥️_Desktop_App-24283b?style=for-the-badge&logoColor=00E676" alt="Desktop" />
 
-<br/>
-<br/>
+</div>
 
-<img height="34" src="https://img.shields.io/badge/%E2%AC%A4%20%20DESKTOP%20APP-0C2D48?style=for-the-badge&logoColor=F59E0B&labelColor=0F0E2A" alt="desktop app" />
+---
 
-</td>
-</tr>
-</table>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                    ROADMAP                        -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<br/>
-
-<!-- ── HOW IT WORKS ── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:1A1A40,100:0C2D48&text=%E2%9A%99%EF%B8%8F%20%20HOW%20WIREGEN%20AI%20WORKS&fontColor=F59E0B&fontSize=17&fontAlignY=64&section=header" alt="How it works" />
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td width="3%"></td>
-<td width="94%" valign="top" align="center">
-
-<br/>
+### `> roadmap --status`
 
 ```
-  📝 DESCRIBE            🤖 GENERATE             👀 REVIEW              ⚡ FLASH
-  ─────────────  ──→     ─────────────  ──→      ─────────────  ──→     ─────────────
-  Tell the AI            Gemini crafts            Inspect code           Export & flash
-  what you want          optimized C++            in the built-in        to your ESP
-  to build               for your ESP             syntax editor          device!
+COMPLETED ████████████░░░░░░░░  60%
 ```
 
-</td>
-<td width="3%"></td>
-</tr>
-</table>
+| Status | Milestone | Description |
+|:---:|---|---|
+| ✅ | **Electron + Vite + React** | Desktop app foundation |
+| ✅ | **Gemini AI Integration** | Intelligent C++ code generation |
+| ✅ | **ESP32 / ESP8266** | Multi-board target support |
+| 🔨 | **PlatformIO CLI** | Flash directly from the app |
+| 📐 | **Visual Block Editor** | Drag-and-drop circuit builder |
+| 🔮 | **RPi Pico & Arduino** | Expanded board support |
+| ☁️ | **Cloud Sync** | Share projects across devices |
 
-<br/>
+---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION: STATS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                 GITHUB STATS                      -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:1A1A40,50:0C2D48,100:0F0E2A&text=%F0%9F%93%8A%20%20%20BY%20THE%20NUMBERS&fontColor=22D3EE&fontSize=21&fontAlignY=66&section=header" alt="By the numbers" />
-
-<br/>
+### `> stats --all`
 
 <div align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=parth-patel605&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0F0E2A&title_color=22D3EE&icon_color=F59E0B&text_color=E2E8F0&ring_color=22D3EE"
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=parth-patel605&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=BB86FC&icon_color=00E676&text_color=c9d1d9&ring_color=BB86FC"
   alt="stats"
 />
-&nbsp;&nbsp;
+&nbsp;
 <img
-  height="170"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=parth-patel605&hide_border=true&background=0F0E2A&stroke=22D3EE&ring=F59E0B&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0"
+  height="165"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=parth-patel605&hide_border=true&background=1a1b27&stroke=24283b&ring=BB86FC&fire=00E676&currStreakLabel=BB86FC&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9"
   alt="streak"
 />
 
-<br/>
-<br/>
+<br/><br/>
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-patel605&layout=compact&hide_border=true&langs_count=8&bg_color=0F0E2A&title_color=22D3EE&text_color=E2E8F0"
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-patel605&layout=compact&hide_border=true&langs_count=8&bg_color=1a1b27&title_color=BB86FC&text_color=c9d1d9"
   alt="top languages"
 />
 
 </div>
 
-<br/>
+---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION: ACTIVITY  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:0F0E2A,50:0C2D48,100:1A1A40&text=%F0%9F%93%88%20%20%20ACTIVITY&fontColor=22D3EE&fontSize=21&fontAlignY=66&section=header" alt="Activity" />
-
-<br/>
+### `> activity --graph`
 
 <div align="center">
 
 <img
-  width="94%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=parth-patel605&bg_color=0F0E2A&color=22D3EE&line=F59E0B&point=ffffff&area=true&area_color=0C2D48&hide_border=true"
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=parth-patel605&bg_color=1a1b27&color=BB86FC&line=00E676&point=ffffff&area=true&area_color=24283b&hide_border=true&custom_title=Contribution%20Activity"
   alt="activity graph"
 />
 
 </div>
 
-<br/>
+---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION: ROADMAP  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                  CONNECT                          -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:1A1A40,50:0C2D48,100:0F0E2A&text=%F0%9F%97%BA%EF%B8%8F%20%20%20WHAT%27S%20NEXT&fontColor=22D3EE&fontSize=21&fontAlignY=66&section=header" alt="What's Next" />
-
-<br/>
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td width="3%"></td>
-<td width="94%" valign="top">
-
-- ✅ **Electron + Vite + React** — Desktop app foundation
-- ✅ **Google Gemini AI** — Intelligent C++ code generation
-- ✅ **ESP32/ESP8266** — Multi-board support
-- ⬜ **PlatformIO CLI** — Flash directly from the app
-- ⬜ **Visual block editor** — Drag-and-drop circuit builder
-- ⬜ **Raspberry Pi Pico & Arduino** — Expanded board support
-- ⬜ **Cloud sync** — Share projects across devices
-
-</td>
-<td width="3%"></td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  FOOTER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1A1A40,50:0C2D48,100:0F0E2A&section=footer&reversal=true&text=Let%20the%20hardware%20speak.&fontColor=22D3EE&fontSize=26&fontAlignY=70"
-  alt="footer"
-/>
+### `> connect`
 
 <div align="center">
 
-<a href="https://github.com/parth-patel605/WireGen-ESP">
-  <img height="40" src="https://img.shields.io/badge/%E2%9A%A1%20%20WireGen--AI-1A1A40?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0F0E2A" alt="wiregen" />
-</a>
-&nbsp;&nbsp;
 <a href="https://github.com/parth-patel605">
-  <img height="40" src="https://img.shields.io/badge/%E2%8C%A8%20%20parth--patel605-0C2D48?style=for-the-badge&logo=github&logoColor=F59E0B&labelColor=0F0E2A" alt="github" />
+  <img src="https://img.shields.io/badge/GitHub-parth--patel605-BB86FC?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="mailto:parth@example.com">
+  <img src="https://img.shields.io/badge/Email-Get_in_Touch-00E676?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email"/>
 </a>
 
-<br/>
+<br/><br/>
+
+<!-- footer wave -->
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a1b27,50:24283b,100:1a1b27&section=footer&reversal=true"
+  alt="footer"
+/>
+
 <br/>
 
-<sub><i>⚡ &nbsp;From idea to firmware — that's the mission. &nbsp;⚡</i></sub>
+```
+                    ⚡ Describe it. Generate it. Flash it. ⚡
+```
+
+<sub>Built with curiosity, shipped with purpose.</sub>
 
 </div>
